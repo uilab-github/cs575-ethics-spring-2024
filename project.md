@@ -10,7 +10,7 @@
   - Peer grading: Recorded Video
 - Week 15 (6/3, 6/5): **Final presentation, Final report, Peer grading, Teamwork report**
   - Slides submission deadline: **23:59, June 2, 2024**
-  - Final report submission deadline: **23:59, June 14, 2923**
+  - Final report submission deadline: **23:59, June 14, 2024**
   -  Peer grading: Recorded Video
   -  Teamwork report: Google form
 
